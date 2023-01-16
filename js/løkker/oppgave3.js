@@ -4,6 +4,6 @@ function randomNumber (min, max) {
 let randomString = randomNumber(3, 10)
 let word =""
 for(let i = 0; i < randomString; i++) {
-    word += "#"
-    console.log(word)
+    word += "#";
+    console.log(word);
 }

@@ -11,4 +11,4 @@ console.log(tall);
 tall.sort(function(a, b){return a - b});
 console.log(tall);
 console.log(tall[0]);
-console.log(tall[tall.length - 2]);
+console.log(tall[tall.length - 1]);
